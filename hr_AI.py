@@ -16,8 +16,6 @@ chat_history=InMemoryChatMessageHistory()
 #Load DB
 embeddings=OllamaEmbeddings(model="nomic-embed-text")
  
- 
- 
 @tool
 def experience_calculator(start_year:str)->str:
     """Calculate candidate Experience"""
@@ -27,8 +25,7 @@ def experience_calculator(start_year:str)->str:
  
 @tool
 def eligibility_checker(
-    skills: str
-) -> str:
+    skills: str) -> str:
     """Check candidate eligibility"""
  
     required = {
