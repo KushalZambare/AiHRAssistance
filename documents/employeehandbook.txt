@@ -1,1 +1,65 @@
-hi 
+EMPLOYEE HANDBOOK
+==================
+
+Welcome to TechCorp Solutions Pvt. Ltd.!
+We are excited to have you as part of our team. This handbook provides an overview of
+our company culture, values, policies, and the resources available to you.
+
+1. ABOUT THE COMPANY
+   TechCorp Solutions is a product-driven technology company founded in 2015,
+   headquartered in Pune, India, with offices in Mumbai and Bengaluru.
+   We build enterprise SaaS products serving clients across BFSI, Healthcare, and Retail sectors.
+
+2. OUR VALUES
+   - Integrity     : We act with honesty and hold ourselves accountable.
+   - Innovation    : We embrace change and encourage creative thinking.
+   - Collaboration : We achieve more when we work together.
+   - Customer First: Every decision is made with our customers in mind.
+   - Growth Mindset: We invest in continuous learning and improvement.
+
+3. CODE OF CONDUCT
+   - Treat all colleagues, clients, and vendors with respect and professionalism.
+   - Maintain confidentiality of company and client data at all times.
+   - Avoid any conflict of interest and disclose potential conflicts to HR.
+   - Do not engage in harassment, discrimination, or bullying of any kind.
+   - Report unethical behavior to HR or the whistleblower hotline anonymously.
+
+4. ONBOARDING
+   - New employees complete a structured onboarding program in their first two weeks.
+   - Includes: company introduction, tool access setup, policy orientations, and team introductions.
+   - A buddy/mentor will be assigned to each new joiner.
+
+5. PERFORMANCE MANAGEMENT
+   - Performance reviews are conducted biannually (June and December).
+   - Goal-setting is done at the start of each half-year using the OKR framework.
+   - Employees are rated on a 5-point scale: Exceptional, Exceeds Expectations,
+     Meets Expectations, Needs Improvement, Unsatisfactory.
+
+6. GRIEVANCE REDRESSAL
+   - Employees may raise grievances with their HR Business Partner at any time.
+   - A formal grievance resolution process will be initiated within 3 working days.
+   - Anonymous reporting is available via the HR portal.
+
+7. DISCIPLINARY POLICY
+   - Minor violations: Written warning.
+   - Repeated/serious violations: Final warning or suspension.
+   - Gross misconduct (fraud, harassment, data theft): Immediate termination.
+
+8. TRAINING & DEVELOPMENT
+   - All employees undergo mandatory training in: Information Security, POSH (Prevention of
+     Sexual Harassment), and Emergency Safety procedures annually.
+   - Role-specific technical training is organized by the L&D team.
+
+9. COMMUNICATION CHANNELS
+   - Internal communication: Slack, Microsoft Teams, and company email.
+   - Announcements: HR portal and all-hands meetings held monthly.
+   - HR queries: hr@techcorpsolutions.com or HR Help Desk (Ext. 1001).
+
+10. IT & DATA SECURITY
+    - All employees must sign the Data Confidentiality Agreement on Day 1.
+    - Company devices must be password-protected and locked when unattended.
+    - Sharing of login credentials is strictly prohibited.
+    - Any suspected security breach must be reported to the IT Security team immediately.
+
+We look forward to a rewarding journey together.
+— The HR Team, TechCorp Solutions Pvt. Ltd.

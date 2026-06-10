@@ -1,0 +1,40 @@
+WORK FROM HOME (WFH) POLICY
+============================
+
+Effective Date: January 1, 2025
+Applicable To: All eligible employees
+
+1. ELIGIBILITY
+   - Employees who have completed their probation period (6 months) are eligible for WFH.
+   - Roles that require physical presence (e.g., facilities, lab work) are not eligible.
+   - Eligibility is subject to manager and HR approval on a case-by-case basis.
+
+2. WFH FREQUENCY
+   - Hybrid model: Employees are permitted up to 2 WFH days per week.
+   - WFH days must be planned and communicated to the manager by end of the previous week.
+   - Ad-hoc WFH (e.g., due to emergency) must be notified to the manager before 9:00 AM.
+
+3. AVAILABILITY EXPECTATIONS
+   - WFH employees must be available on all communication channels (email, Slack, Teams)
+     during core working hours (10:30 AM – 4:30 PM).
+   - Employees must attend all scheduled meetings and stand-ups via video call.
+   - Response time to messages should not exceed 30 minutes during working hours.
+
+4. INFRASTRUCTURE & SECURITY
+   - Employees are responsible for ensuring a reliable internet connection at home.
+   - Company-issued laptops must be used for all work-related activities.
+   - VPN must be active when accessing internal systems remotely.
+   - Employees must not access sensitive data on personal devices or public networks.
+
+5. PERFORMANCE & ACCOUNTABILITY
+   - WFH employees are held to the same productivity and output standards as office employees.
+   - Managers may revoke WFH privileges if performance or availability standards are not met.
+
+6. WFH ALLOWANCE
+   - Eligible employees receive a one-time WFH setup allowance of ₹10,000 upon joining.
+   - Monthly internet reimbursement of up to ₹500 per month is provided upon bill submission.
+
+7. FULL REMOTE WORK
+   - Permanent full-remote arrangements require written approval from the department head
+     and HR Director.
+   - Full-remote employees may be required to visit the office at least once per quarter.

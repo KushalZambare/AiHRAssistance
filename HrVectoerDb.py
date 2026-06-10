@@ -13,7 +13,7 @@ for file in os.listdir("documents"):
     loader=TextLoader(path)
     docs=loader.load()
     documents.extend(docs)
-print(f"Loaded{len(documents)} documents")
+print(f"Loaded {len(documents)} documents")
  
  
 #Split Document
