@@ -4,7 +4,7 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_ollama import OllamaEmbeddings
 from langchain_community.vectorstores import FAISS
  
-#LLM
+# LLM
 embedding=OllamaEmbeddings(model="nomic-embed-text")
  
 documents=[]
@@ -16,7 +16,7 @@ for file in os.listdir("documents"):
 print(f"Loaded {len(documents)} documents")
  
  
-#Split Document
+# Split Document
  
 splitter=RecursiveCharacterTextSplitter(
     chunk_size=500,
